@@ -30,12 +30,14 @@
   h1 {
     text-align: center;
     color: #020202;
+    font-style: italic;
   }
   
   #description {
     text-align: center;
     color: #050404;
     gap: 1rem;
+    font-style: italic;
   }
   
    .display {
